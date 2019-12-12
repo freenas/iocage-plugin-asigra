@@ -1,4 +1,4 @@
 {
-	"adminportal": "http://%%IP%%/asigra/DSOP.jnlp"
+	"adminportal": "http://%%IP%%/asigra/DSOP.jnlp",
 	"docurl": "https://github.com/ix-plugin-hub/iocage-plugin-asigra/blob/master/#iocage-plugin-asigra"
 }
